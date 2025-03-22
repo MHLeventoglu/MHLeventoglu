@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm 2nd grade Computer Engineering student in Istanbul University - Cerrahpaşa 
 
-![image](https://github.com/user-attachments/assets/b0622ae3-f4bc-4ea6-8620-246c88066a52)
+<img src="https://github.com/user-attachments/assets/4b60c311-dd2e-4cfa-8f7f-bc3966923f00" width="550" height="auto"/>
 
 
 <!--
