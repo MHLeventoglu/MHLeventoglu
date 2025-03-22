@@ -1,4 +1,8 @@
 ## Hi there 👋
+I'm 2nd grade Computer Engineering student in Istanbul University - Cerrahpaşa 
+
+![image](https://github.com/user-attachments/assets/b0622ae3-f4bc-4ea6-8620-246c88066a52)
+
 
 <!--
 **MHLeventoglu/MHLeventoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
